@@ -1,7 +1,7 @@
 
 import { useEffect, useState } from "react";
 
-const API = "http://localhost:5000";
+const API = "https://booking-reservation-backend.onrender.com";
 
 const resources = [
   "Meeting Room A",
